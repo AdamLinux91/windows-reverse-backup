@@ -1,3 +1,6 @@
+### WARNING this is just for inspecting, IT'S NOT A WORKING DEMO!
+
+
 # `windows-reverse` (`ntrev`)
 
 **Automated Windows NT Binary Decompilation & Z3 Semantic Equivalence Engine**  
